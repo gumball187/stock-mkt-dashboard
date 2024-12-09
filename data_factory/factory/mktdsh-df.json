@@ -1,0 +1,9 @@
+{
+	"name": "mktdsh-df",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d1d85361-63f1-4f61-81b7-e232ff45eb01",
+		"tenantId": "efc84f64-da2a-45e5-819b-2dfd6583368d"
+	}
+}
